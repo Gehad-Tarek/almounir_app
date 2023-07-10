@@ -1,0 +1,21 @@
+{
+  "enter_email": "أدخل البريد الإلكتروني",
+  "email": "البريد الإلكتروني",
+  "enter_pass": "أدخل كلمة المرور",
+  "password": "كلمة المرور ",
+  "forget_pass": "   هل نسيت كلمة السر؟",
+  "confirm_password": "إعادة تأكيد كلمة المرور",
+  "login": "تسجيل الدخول",
+  "do_not_have_an_account": "ليس لديك حساب ؟",
+  "register": "تسجيل حساب جديد",
+  "change_lang": "اختيار اللغة",
+  "change_pass": "تغيير كلمة المرور",
+  "or": "أو",
+  "login_with_apple": "الدخول باستخدام أبل",
+  "login_with_google": "الدخول باستخدام جوجل",
+  "create_account": "أنشئ حساب",
+  "cart": "العربة",
+  "account": "الحساب",
+  "categories": "الأقسام",
+  "home": "الرئيسية"
+}

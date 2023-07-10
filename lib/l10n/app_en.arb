@@ -1,0 +1,21 @@
+{
+  "enter_email": "Enter an Email",
+  "email": "Email",
+  "enter_pass": "Enter a Password",
+  "password": "Password ",
+  "forget_pass": "  Forget Password? ",
+  "confirm_password": "Confirm A Password",
+  "login": "Login",
+  "do_not_have_an_account": "Don't Have an Account?   ",
+  "register": "Register",
+  "change_lang": "Change App Langugae",
+  "change_pass": "Change Password",
+  "or": "Or",
+  "login_with_apple": "Login With Apple ID",
+  "login_with_google": "Login With Google",
+  "create_account": "Create Account",
+  "cart": "Cart",
+  "account": "Account",
+  "categories": "Categories",
+  "home": "Home"
+}

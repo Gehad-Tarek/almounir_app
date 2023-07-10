@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831954406038",
+    "project_id": "almounir-center",
+    "storage_bucket": "almounir-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831954406038:android:36ccf58c6c32ac8f1090b7",
+        "android_client_info": {
+          "package_name": "com.example.almounir_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831954406038-d57i8i475iuno9mv6c9hh6aiui351qvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUglqxGLMnavt20ZntZQaNn2sNAi_tIuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831954406038-d57i8i475iuno9mv6c9hh6aiui351qvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
